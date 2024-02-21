@@ -1,0 +1,11 @@
+Arquivo: 
+Conjunto de dados ao qual você dá um nome. É uma sequencias binária, 0101010... 
+
+Arquivo de texto: 
+No caso dos arquivos de texto, a cada sequencia de 8 binários, é uma letra gerada ao arquivo de texto. Os arquivos de texto permitem que os sistemas se comuniquem. 
+
+Variável: 
+Um nome que recebe um valor, que simultaneamente é um espaço na memória. 
+
+Servidor: 
+É um sistema computacional, físico ou virtual, composto por hardware e software, dedicado a atender solicitações e prestar serviços para outros dispositivos como computadores clientes.
