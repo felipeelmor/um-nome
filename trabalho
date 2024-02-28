@@ -21,6 +21,48 @@ Isso inclui implementar medidas de segurança adequadas para proteger os dados p
 
 B.  Alguns Formatos de arquivos de dados proprietários e abertos são: CSV, JSON e XML. 
 
-B.2.  os formatos de arquivo abertos geralmente facilitam a acessibilidade, transparência e reutilização dos dados públicos, enquanto os formatos proprietários podem criar barreiras
-à acessibilidade e interoperabilidade dos dados. Ao distribuir dados públicos, é importante considerar os formatos de arquivo que maximizem a acessibilidade e a utilidade dos dados 
-para o público em geral.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+NOVO TRABALHO - 28/02/2024
+
+1- Python, JavaScript e C++, suas diferenças de acordo com alguns critérios. 
+
+Sintaxe:
+
+Python: Sintaxe limpa e minimalista, enfatiza a legibilidade do código.
+JavaScript: Sintaxe flexível, permite programação procedural, orientada a objetos e funcional.
+C++: Sintaxe mais complexa em comparação com Python e JavaScript, exige a declaração de tipos de dados e gerenciamento de memória.
+
+Tipagem:
+
+Python: Linguagem de tipagem dinâmica, onde os tipos de dados são inferidos em tempo de execução.
+JavaScript: Também é tipagem dinâmica, mas possui tipos primitivos e objetos.
+C++: Linguagem de tipagem estática, onde os tipos de dados são declarados explicitamente em tempo de compilação.
+
+Gerenciamento de Memória:
+
+Python: Usa um coletor de lixo para gerenciar automaticamente a alocação e desalocação de memória.
+JavaScript: Também utiliza coleta de lixo, mas o processo pode ser menos previsível devido ao comportamento do navegador ou do mecanismo JavaScript.
+C++: O programador é responsável por alocar e desalocar memória explicitamente, o que pode levar a problemas como vazamentos de memória se não for feito corretamente.
+
+Paradigma de Programação:
+
+Python: Suporta programação procedural, orientada a objetos e funcional.
+JavaScript: Também suporta programação procedural, orientada a objetos e funcional.
+C++: Permite programação procedural, orientada a objetos e genérica.
+
+Portabilidade:
+
+Python: Altamente portável, sendo executável em várias plataformas sem alterações significativas.
+JavaScript: Pode ser executado em qualquer navegador da web e também em servidores usando o Node.js.
+C++: Portabilidade depende do compilador e sistema operacional, mas é amplamente suportada em várias plataformas.
+
+Desempenho:
+
+Python: Geralmente mais lento em comparação com JavaScript e C++ devido à natureza interpretada e tipagem dinâmica.
+JavaScript: Mais rápido que Python devido à execução just-in-time em motores JavaScript modernos.
+C++: Altamente otimizado e geralmente mais rápido que Python e JavaScript devido à sua natureza compilada e tipagem estática.
+
+
+
+
