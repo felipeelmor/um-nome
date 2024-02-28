@@ -13,3 +13,14 @@ Servidor:
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 NOVO TRABALHO 
+
+A. A LGPD estabelece uma série de requisitos e obrigações para o tratamento de dados pessoais, incluindo coleta, armazenamento, processamento e compartilhamento dessas informações.
+Isso se aplica a todas as organizações, públicas ou privadas, que realizam atividades de tratamento de dados no Brasil, independentemente de onde os dados estão localizados.
+Os data centers, como infraestruturas críticas para o armazenamento e processamento de dados, devem garantir que estão em conformidade com as disposições da LGPD.
+Isso inclui implementar medidas de segurança adequadas para proteger os dados pessoais contra acesso não autorizado, uso indevido, perda ou roubo.
+
+B.  Alguns Formatos de arquivos de dados proprietários e abertos são: CSV, JSON e XML. 
+
+B.2.  os formatos de arquivo abertos geralmente facilitam a acessibilidade, transparência e reutilização dos dados públicos, enquanto os formatos proprietários podem criar barreiras
+à acessibilidade e interoperabilidade dos dados. Ao distribuir dados públicos, é importante considerar os formatos de arquivo que maximizem a acessibilidade e a utilidade dos dados 
+para o público em geral.
