@@ -63,6 +63,91 @@ Python: Geralmente mais lento em comparação com JavaScript e C++ devido à nat
 JavaScript: Mais rápido que Python devido à execução just-in-time em motores JavaScript modernos.
 C++: Altamente otimizado e geralmente mais rápido que Python e JavaScript devido à sua natureza compilada e tipagem estática.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+I- Python - Linguagem de programação conhecida por uma sintesi simples e legivel, sendo acessivel a iniciantes. Aderido em 
+uma diversidade de domínios como: análise de dados, automação de tarefas e inteligencia artificial. Sua vasta biblioteca 
+padrão e grande comunidade de desenvolvedores contribuem para popularidade e versatilidade.
+
+Código:
+# Solicita dois números ao usuário
+num1 = float(input("Digite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
+
+# Calcula a soma
+soma = num1 + num2
+
+# Exibe o resultado
+print("A soma de", num1, "e", num2, "é igual a", soma)
+
+
+II- Ruby - Linguagem de programação de alto nível, com uma sintaxe simples e expressiva, orientada a objetos e de tipagem
+dinâmica, tudo se torna semelhante a um objeto. Oferece estruturas convenientes por exemplo ARRAYS e HASHES além de suportar
+blocos e iteradores. O ruby permite inclusão de funcionalidades em classes promovendo a reutilização de código de maneira 
+eficiente. Além disso possui sistema robusto na forma controlada de se lidar com erros, tornando-a popular à aplicativos.
+
+Código:
+# Solicita dois números ao usuário
+print "Digite o primeiro número: "
+num1 = gets.chomp.to_f
+print "Digite o segundo número: "
+num2 = gets.chomp.to_f
+
+# Calcula a soma
+soma = num1 + num2
+
+# Exibe o resultado
+puts "A soma de #{num1} e #{num2} é igual a #{soma}"
+
+
+III- JavaScript- Linguagem de programa amplamente utilizada no desenvolvimento web para tornar as páginas interativas e
+dinâmicas. Este permite manipular elementos da página, responder a eventos do usuário e
+enviar solicitações para servidores. Possui síntese relativamente simples e é uma habilidade valiosa para desenvolvedores
+front-end e full-stack.
+
+Código: 
+// Solicita dois números ao usuário
+let num1 = parseFloat(prompt("Digite o primeiro número: "));
+let num2 = parseFloat(prompt("Digite o segundo número: "));
+
+// Calcula a soma
+let soma = num1 + num2;
+
+// Exibe o resultado
+console.log("A soma de", num1, "e", num2, "é igual a", soma);
+--------------------------------------------------------------
+ESTRUTURA DE REPETIÇÃO:
+
+print("Try programiz.pro")
+for i in range(1, 12):
+    print(i)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+> 
+
+ESTRUTURA DE TOMADA DE DECISÃO:
+
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+idade = 30
+if idade < 18:
+    print ("Você é menor de idade.")
+elif idade >= 18 and idade< 65:
+     print ("Você é adulto.")
+else:
+    print ("Você é um idoso.")
+
+Você é adulto.
+
 
 
 
