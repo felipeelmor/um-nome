@@ -70,15 +70,11 @@ uma diversidade de domínios como: análise de dados, automação de tarefas e i
 padrão e grande comunidade de desenvolvedores contribuem para popularidade e versatilidade.
 
 Código:
-# Solicita dois números ao usuário
-num1 = float(input("Digite o primeiro número: "))
-num2 = float(input("Digite o segundo número: "))
+# Solicita ao usuário que insira seu nome
+nome = input("Digite seu nome: ")
 
-# Calcula a soma
-soma = num1 + num2
-
-# Exibe o resultado
-print("A soma de", num1, "e", num2, "é igual a", soma)
+# Saudação
+print("Olá, " + nome + "! Bem-vindo ao Python!")
 
 
 II- Ruby - Linguagem de programação de alto nível, com uma sintaxe simples e expressiva, orientada a objetos e de tipagem
@@ -87,17 +83,13 @@ blocos e iteradores. O ruby permite inclusão de funcionalidades em classes prom
 eficiente. Além disso possui sistema robusto na forma controlada de se lidar com erros, tornando-a popular à aplicativos.
 
 Código:
-# Solicita dois números ao usuário
-print "Digite o primeiro número: "
-num1 = gets.chomp.to_f
-print "Digite o segundo número: "
-num2 = gets.chomp.to_f
+# Solicita ao usuário que insira seu nome
+print "Digite seu nome: "
+nome = gets.chomp
 
-# Calcula a soma
-soma = num1 + num2
+# Saudação
+puts "Olá, #{nome}! Bem-vindo ao Ruby!"
 
-# Exibe o resultado
-puts "A soma de #{num1} e #{num2} é igual a #{soma}"
 
 
 III- JavaScript- Linguagem de programa amplamente utilizada no desenvolvimento web para tornar as páginas interativas e
@@ -106,15 +98,12 @@ enviar solicitações para servidores. Possui síntese relativamente simples e �
 front-end e full-stack.
 
 Código: 
-// Solicita dois números ao usuário
-let num1 = parseFloat(prompt("Digite o primeiro número: "));
-let num2 = parseFloat(prompt("Digite o segundo número: "));
+// Solicita ao usuário que insira seu nome
+var nome = prompt("Digite seu nome:");
 
-// Calcula a soma
-let soma = num1 + num2;
+// Saudação
+alert("Olá, " + nome + "! Bem-vindo ao JavaScript!");
 
-// Exibe o resultado
-console.log("A soma de", num1, "e", num2, "é igual a", soma);
 --------------------------------------------------------------
 ESTRUTURA DE REPETIÇÃO:
 
