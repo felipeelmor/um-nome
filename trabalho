@@ -168,6 +168,48 @@ def conta_vogais(string):
  
 print(conta_vogais('Felipe Elmor'))
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Variáveis para armazenar os números
+x = 16
+y = 21
+z = 37
+w = 38
+
+# Variáveis para armazenar a frase e a palavra
+frase = "Cachorro melhor que gato."
+palavra = "Internacional"
+
+# Calculando a média aritmética
+media = (x + y + z + w) / 4
+
+# Calculando o quadrado de um dos números
+quadrado = z ** 2
+
+# Calculando o dobro de um dos números
+dobro = w * 2
+
+# Contando a quantidade de letras da palavra
+quant_letras_palavra = len(palavra)
+
+# Contando a quantidade de espaços em branco da frase
+quant_espacos_frase = frase.count(' ')
+
+# Verificando se o primeiro número é maior que o segundo
+primeiro_maior = x > y
+
+# Encontrando o maior número
+maior = max(x, y, z, w)
+
+# Imprimindo os resultados
+print("Média aritmética dos números:", media)
+print("Quadrado de um dos números:", quadrado)
+print("Dobro de um dos números:", dobro)
+print("Quantidade de letras da palavra:", quant_letras_palavra)
+print("Quantidade de espaços em branco da frase:", quant_espacos_frase)
+print("O primeiro número é maior que o segundo:", primeiro_maior)
+print("Maior número entre os quatro números:", maior)
+
 
 
 
